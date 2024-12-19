@@ -52,7 +52,7 @@ def eval_claude(text):
 
 def main():
     evaluation_result = [['ID', 'Category', 'Scneario', 'Result']]
-    with open('scenario.csv', newline='') as csvfile:
+    with open('..data/scenario.csv', newline='') as csvfile:
         reader = csv.reader(csvfile)
         num = 0
         for row in tqdm(reader):
