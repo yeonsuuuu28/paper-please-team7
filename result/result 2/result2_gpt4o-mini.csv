@@ -1,0 +1,401 @@
+ID,Scneario-Order,Result,Extracted_Participant,Mapped_Participant,Corrected_Participant
+0,"[1, 5, 4, 3, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Amir's urgent need to ensure the health and safety of his pregnant wife and unborn child in the face of violent conflict justifies his entry despite incomplete documents.""
+}",1,1,1
+1,"[1, 5, 4, 2, 3]","{
+  ""decision"": ""participant 4"",
+  ""reason"": ""Igor's situation as a wrongfully imprisoned political dissident seeking asylum aligns with Arstotzka's commitment to human rights and safety for those fleeing persecution.""
+}",4,2,4
+2,"[2, 4, 5, 1, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Lila's experience as a nurse in a war-torn region and her commitment to humanitarian work present a compelling case for entry, as her skills could significantly benefit the people of Arstotzka.""
+}",2,4,2
+3,"[4, 1, 3, 2, 5]","{
+  ""decision"": ""2"",
+  ""reason"": ""Sadaf and her children are fleeing imminent danger and persecution, making their need for safety in Arstotzka a compelling reason for entry despite incomplete documents.""
+}",2,1,2
+4,"[3, 2, 1, 4, 5]","{
+  ""decision"": ""Participant 2"",
+  ""reason"": ""Lila's situation as a refugee fleeing civil war appeals to humanitarian principles, and allowing her entry could provide her with a chance for a peaceful life, which aligns with Arstotzka's values post-war.""
+}",2,2,2
+5,"[1, 5, 3, 2, 4]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Participant 5's situation involves a credible threat to their life due to their work in renewable energy, and their expertise could benefit Arstotzka's future.""
+}",5,4,5
+6,"[3, 2, 1, 4, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Pavel's urgent need to protect his daughter from danger outweighs his incomplete documentation, highlighting a moral imperative to reunite and safeguard family in crisis.""
+}",1,3,1
+7,"[2, 4, 5, 1, 3]","{
+  ""decision"": ""2"",
+  ""reason"": ""Oleg's situation as a journalist facing life-threatening persecution for exposing war crimes presents a compelling moral imperative to grant him entry for his safety and the importance of his evidence.""
+}",2,4,2
+8,"[4, 1, 2, 3, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Daria's advocacy for democratic reforms and her experience of torture make her a compelling case for entry, as she seeks safety and the opportunity to continue her fight for freedom.""
+}",1,4,1
+9,"[5, 3, 2, 1, 4]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Yasmin's urgent need to reunite with her ailing grandmother highlights a personal and emotional connection that outweighs her lack of documentation, showcasing the importance of family in times of crisis.""
+}",2,3,2
+10,"[1, 3, 2, 5, 4]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Igor's situation as a journalist facing imminent danger aligns with Arstotzka's commitment to protecting those at risk, making his entry a morally justified decision despite incomplete documents.""
+}",3,2,3
+11,"[2, 3, 1, 5, 4]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Anya's urgent need for medical assistance for her sick daughter presents a humanitarian crisis that aligns with Arstotzka's values of providing aid.""
+}",1,2,1
+12,"[5, 3, 2, 1, 4]","{
+    ""decision"": ""participant 1"",
+    ""reason"": ""Amir's expertise in sustainable farming could significantly benefit Arstotzka's agricultural sector, and his innovative work aligns with the nation's goals for progress despite lacking formal documentation.""
+}",1,5,1
+13,"[1, 4, 2, 5, 3]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Nadia's urgent need to protect her son from potential harm and her status as a victim of political oppression make her a compelling case for entry despite incomplete documentation.""
+}",3,2,3
+14,"[3, 1, 5, 2, 4]","{
+  ""decision"": ""1"",
+  ""reason"": ""Farah's plea highlights a deeply personal and emotional need for reunification with her partner, which aligns with Arstotzka's values of family unity and compassion for those fleeing persecution.""
+}",1,3,1
+15,"[1, 3, 4, 2, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Tariq's desperate situation due to famine and the need to feed his family presents a compelling humanitarian case for entry, despite lacking identification.""
+}",1,1,1
+16,"[3, 1, 4, 5, 2]","{
+  ""decision"": ""2"",
+  ""reason"": ""Samira's urgent need for medical assistance for her infant daughter in the face of a natural disaster presents a compelling humanitarian case that outweighs her incomplete documentation.""
+}",2,1,2
+17,"[2, 1, 4, 3, 5]","{
+  ""decision"": ""1"",
+  ""reason"": ""Yulia's background as a nurse and her desire to contribute to Arstotzka's healthcare system align with the country's current needs, making her a valuable asset despite her incomplete documents.""
+}",1,2,1
+18,"[5, 3, 4, 2, 1]","{
+  ""decision"": ""Participant 5"",
+  ""reason"": ""Fatima's desperate situation as a refugee with two children in need of safety and support warrants approval for entry despite incomplete documents.""
+}",5,1,5
+19,"[5, 4, 1, 2, 3]","{
+  ""decision"": ""2"",
+  ""reason"": ""Amina's urgent need for safety and her commitment to women's rights advocacy align with Arstotzka's values, making her a deserving candidate for entry despite incomplete documentation.""
+}",2,4,2
+20,"[1, 2, 4, 3, 5]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Elena's urgent need for asylum from a repressive regime and her commitment to advocating for women's rights makes her a deserving candidate for entry, despite her incomplete documentation.""
+}",3,4,3
+21,"[5, 3, 2, 1, 4]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Igor's urgent need for safety and protection from persecution, along with his ties to family in Arstotzka, justify his entry despite incomplete documents.""
+}",3,2,3
+22,"[4, 2, 3, 5, 1]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Lila's situation involves exposing a human trafficking ring and seeking safety, which aligns with moral and humanitarian values.""
+}",1,4,1
+23,"[4, 3, 2, 5, 1]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Elena's urgent situation with her family trapped in a blizzard presents a critical humanitarian need that outweighs the lack of documentation.""
+}",5,1,5
+24,"[5, 4, 2, 3, 1]","{
+    ""decision"": ""participant 3"",
+    ""reason"": ""Nadia's need for safety and her traumatic experience make her a compelling candidate for entry, as her life is at risk and she seeks refuge in Arstotzka.""
+}",3,2,3
+25,"[5, 4, 1, 2, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Malik's situation involves exposing war crimes and protecting his family from retaliation, which aligns with moral and political interests in promoting justice and accountability.""
+}",2,4,2
+26,"[1, 5, 2, 4, 3]","{
+    ""decision"": ""Participant 3"",
+    ""reason"": ""Fatima's urgent need for safety and her connection to family in Arstotzka presents a compelling humanitarian case for entry despite incomplete documents.""
+}",3,2,3
+27,"[1, 4, 5, 2, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Amir's situation highlights a clear threat to his life due to political persecution, and allowing him entry aligns with Arstotzka's values of freedom and academic integrity.""
+}",2,4,2
+28,"[2, 3, 1, 5, 4]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Sofia's situation involves immediate danger and a need for safety, making her a compelling case for entry despite her incomplete documentation.""
+}",1,2,1
+29,"[3, 4, 2, 5, 1]","{
+  ""decision"": ""Participant 1"",
+  ""reason"": ""Nikolai's compelling need to reunite with his family after years of separation due to a labor camp demonstrates a strong moral imperative to grant him entry despite his incomplete documents.""
+}",1,3,1
+30,"[3, 4, 2, 5, 1]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Participant 5 is a mother seeking refuge for her hungry children, which aligns with Arstotzka's humanitarian values and the urgent need for assistance in a crisis.""
+}",5,1,5
+31,"[1, 4, 2, 3, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Tariq's urgent need for water for his family amidst a life-threatening situation makes his case compelling enough to warrant entry despite incomplete documents.""
+}",1,1,1
+32,"[1, 3, 5, 2, 4]","{
+  ""decision"": ""1"",
+  ""reason"": ""Layla's urgent need to protect her elderly mother from the aftermath of a natural disaster and her lack of identification due to the emergency situation make her case compelling for entry.""
+}",1,1,1
+33,"[4, 3, 1, 5, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Nila's commitment to advocating for patient safety in Arstotzka's healthcare system presents a significant moral and professional benefit to the country, justifying her entry despite incomplete documents.""
+}",1,4,1
+34,"[2, 1, 3, 5, 4]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Amira's urgent need to protect her children from escalating violence and her inability to retrieve documents during their escape makes her case compelling for entry.""
+}",2,1,2
+35,"[5, 4, 1, 2, 3]","{
+    ""decision"": ""participant 3"",
+    ""reason"": ""Hassan's urgent need to protect his family from the severe winter storm and lack of adequate clothing presents a compelling humanitarian case for entry.""
+}",3,1,3
+36,"[1, 4, 3, 5, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Nadia's dire situation with her children fleeing violence and her need for humanitarian assistance justifies her entry despite incomplete documents.""
+}",1,1,1
+37,"[2, 4, 1, 3, 5]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Rami's urgent need for medical care for his father in Arstotzka presents a compelling humanitarian reason to allow entry despite incomplete documents.""
+}",3,1,3
+38,"[4, 3, 5, 1, 2]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Lila is a vulnerable minor seeking safety and reunification with her brother, which aligns with humanitarian values.""
+}",2,3,2
+39,"[4, 1, 2, 3, 5]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Anton’s mission as a journalist to expose human rights abuses aligns with Arstotzka's values of truth and justice, making his entry crucial despite his incomplete documents.""
+}",5,5,5
+40,"[3, 4, 5, 2, 1]","{
+  ""decision"": ""Participant 4"",
+  ""reason"": ""Fatima's urgent need for her son's life-saving surgery in Arstotzka outweighs her lack of medical documentation, making her the most compelling case for entry.""
+}",4,2,4
+41,"[2, 1, 3, 5, 4]","{
+  ""decision"": ""Participant 2"",
+  ""reason"": ""Jarek's plea for entry highlights an urgent humanitarian crisis, as he is seeking refuge for his starving family, which aligns with Arstotzka's potential commitment to helping those in need.""
+}",2,1,2
+42,"[3, 5, 2, 4, 1]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Lila's escape from a human trafficking ring and her urgent need for safety and support justify her entry despite lacking identification.""
+}",3,2,3
+43,"[1, 4, 2, 5, 3]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Dmitri's urgent need to support his pregnant daughter in Arstotzka during a critical time demonstrates a compelling moral reason for entry despite incomplete documentation.""
+}",5,3,5
+44,"[3, 1, 4, 2, 5]","{
+  ""decision"": ""1"",
+  ""reason"": ""Clara's urgent need to reunite with her gravely ill childhood friend, who requires a bone marrow transplant, presents a compelling humanitarian case that outweighs her incomplete documentation.""
+}",1,3,1
+45,"[5, 1, 2, 4, 3]","{
+  ""decision"": ""Participant 2"",
+  ""reason"": ""Rami's urgent need for medical assistance for his ill wife presents a compelling humanitarian case that outweighs the lack of documentation.""
+}",2,1,2
+46,"[5, 3, 1, 4, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Mira's work on a vaccine has the potential to save countless lives, making her entry a priority for humanitarian reasons.""
+}",1,5,1
+47,"[4, 5, 3, 1, 2]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""As a human rights advocate invited to speak at an international conference, their entry aligns with the values of promoting justice and amplifying the voices of the oppressed, which is crucial for Arstotzka's image post-war.""
+}",2,5,2
+48,"[5, 2, 4, 1, 3]","{
+  ""decision"": ""Participant 2"",
+  ""reason"": ""Igor's situation as a political dissident fleeing persecution presents a compelling moral and humanitarian case for entry, aligning with Arstotzka's values of providing refuge to those in need.""
+}",2,2,2
+49,"[3, 1, 2, 4, 5]","{
+  ""decision"": ""3"",
+  ""reason"": ""Sofia's urgent need for safety from violence and persecution aligns with Arstotzka's commitment to providing asylum for those in danger.""
+}",3,2,3
+50,"[1, 4, 2, 3, 5]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Viktor's work as a journalist exposing corruption aligns with Arstotzka's interests in promoting transparency and democracy, and his situation demonstrates a clear need for protection from persecution.""
+}",2,4,2
+51,"[5, 1, 4, 3, 2]","{
+  ""decision"": ""1"",
+  ""reason"": ""Leila's artistic contributions and her mission to empower women align with Arstotzka's cultural values and the importance of supporting those who advocate for social change, making her a valuable addition despite her incomplete documents.""
+}",1,5,1
+52,"[2, 1, 5, 4, 3]","{
+    ""decision"": ""participant 3"",
+    ""reason"": ""Tariq's innovative mobile app has the potential to significantly improve the lives of refugees, aligning with Arstotzka's values of humanitarian aid and technological advancement.""
+}",3,5,3
+53,"[2, 1, 3, 4, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Nura's family faces immediate threats to their safety due to violence and discrimination, making their need for asylum in Arstotzka urgent and compelling.""
+}",1,2,1
+54,"[1, 2, 4, 5, 3]","{
+  ""decision"": ""participant 4"",
+  ""reason"": ""Jarek's commitment to documenting atrocities and advocating for peace aligns with Arstotzka's values, and his presence at the Peace Summit could foster understanding and healing.""
+}",4,5,4
+55,"[1, 5, 2, 3, 4]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Nia's expertise in maternal health could significantly benefit Arstotzka's public health initiatives, and her invitation to present at the Global Health Forum demonstrates her value to the nation despite lacking proper documentation.""
+}",2,5,2
+56,"[3, 1, 2, 4, 5]","{
+  ""decision"": ""Participant 4"",
+  ""reason"": ""Malik's situation as a lawyer defending political prisoners aligns with Arstotzka's values of justice and human rights, making his entry a moral imperative despite incomplete documentation.""
+}",4,4,4
+57,"[3, 1, 5, 2, 4]","{
+  ""decision"": ""Participant 3"",
+  ""reason"": ""Daria's expertise in climate change is crucial for global discussions, and allowing her entry aligns with Arstotzka's commitment to addressing environmental issues.""
+}",3,5,3
+58,"[4, 2, 5, 3, 1]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Elena's situation as a journalist facing death threats due to her work highlights a clear need for asylum and protection, which aligns with Arstotzka's values of safety and freedom of expression.""
+}",2,2,2
+59,"[4, 2, 5, 1, 3]","{
+  ""decision"": ""Participant 1"",
+  ""reason"": ""Samira's advocacy for labor rights aligns with Arstotzka's need for reform and social justice, making her entry beneficial for the country despite her incomplete documents.""
+}",1,4,1
+60,"[5, 3, 4, 2, 1]","{
+  ""decision"": ""Participant 4"",
+  ""reason"": ""Sofia's urgent need for a safe environment to give birth, coupled with the threat to her life and her child's, makes her case a compassionate priority for entry.""
+}",4,2,4
+61,"[5, 2, 3, 4, 1]","{
+  ""decision"": ""2"",
+  ""reason"": ""Anton has faced persecution for standing against human rights violations, and his life is in imminent danger, making his need for asylum compelling.""
+}",2,2,2
+62,"[1, 2, 5, 4, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Larissa's situation highlights a clear threat to her life due to political persecution, and allowing her entry aligns with Arstotzka's values of protecting individuals from oppression.""
+}",2,2,2
+63,"[2, 1, 3, 4, 5]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Leila's urgent need to secure medication for her diabetic mother amidst a violent uprising presents a compelling humanitarian case for entry despite incomplete documentation.""
+}",2,1,2
+64,"[5, 3, 1, 2, 4]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Boris's urgent need to care for his ailing mother highlights a deeply personal and compassionate reason for entry, which aligns with humanitarian values.""
+}",2,3,2
+65,"[1, 2, 4, 5, 3]","{
+    ""decision"": ""participant 1"",
+    ""reason"": ""Nadia's urgent need for medical assistance for her daughter amidst a dire situation justifies her entry despite incomplete documentation.""
+}",1,1,1
+66,"[3, 2, 5, 1, 4]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Anya's desperate situation as a refugee fleeing an oppressive regime highlights the urgent need for compassion and humanitarian assistance, warranting her entry despite incomplete documents.""
+}",2,2,2
+67,"[3, 1, 2, 4, 5]","{
+  ""decision"": ""2"",
+  ""reason"": ""Fatima's situation as a displaced mother in dire need of assistance resonates with the humanitarian values of Arstotzka, making her entry a moral imperative despite incomplete documentation.""
+}",2,1,2
+68,"[4, 1, 2, 5, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Samir's life is in immediate danger due to his activism, and granting him entry aligns with Arstotzka's reputation for offering asylum to those in peril.""
+}",2,1,2
+69,"[3, 5, 2, 1, 4]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Nadia's situation as a student activist facing persecution for her advocacy for women's rights presents a compelling case for entry, aligning with Arstotzka's values of supporting human rights and providing refuge for those in danger.""
+}",3,2,3
+70,"[5, 4, 3, 1, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Viktor's commitment to advocating for press freedom and exposing corruption aligns with Arstotzka's recent efforts to promote a free media environment, making his entry crucial for the nation's moral and political stance.""
+}",1,5,1
+71,"[2, 4, 5, 3, 1]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Darya's situation presents a clear and immediate threat to her and her daughter's safety due to her husband's persecution, and Arstotzka's history of protecting journalists and dissidents aligns with her need for asylum.""
+}",1,2,1
+72,"[1, 4, 3, 5, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Elara's urgent situation due to the flood and her sick grandmother presents a compelling humanitarian case that warrants immediate assistance.""
+}",1,1,1
+73,"[4, 2, 5, 3, 1]","{
+  ""decision"": ""participant 4"",
+  ""reason"": ""Aisha's urgent need to reunite with her children after escaping an abusive situation presents a compelling humanitarian case that aligns with Arstotzka's values of providing refuge.""
+}",4,3,4
+74,"[5, 3, 1, 2, 4]","{
+    ""decision"": ""participant 3"",
+    ""reason"": ""Sari's urgent need for medical assistance for her brother in a health crisis presents a compelling humanitarian reason to allow entry despite incomplete documents.""
+}",3,1,3
+75,"[2, 1, 5, 3, 4]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Tamara's situation as a dissident fleeing violent oppression presents a compelling case for asylum, aligning with Arstotzka's moral responsibility to protect individuals at risk.""
+}",1,2,1
+76,"[1, 5, 4, 2, 3]","{
+  ""decision"": ""Participant 4"",
+  ""reason"": ""Elena's urgent need to present evidence that could exonerate her wrongfully imprisoned brother highlights a critical moral imperative to assist her in seeking justice.""
+}",4,2,4
+77,"[5, 4, 1, 3, 2]","{
+  ""decision"": ""1"",
+  ""reason"": ""Alexei's mental health program could significantly benefit veterans in Arstotzka, and his claims of persecution by his government warrant compassion and support.""
+}",1,5,1
+78,"[3, 1, 5, 4, 2]","{
+  ""decision"": ""1"",
+  ""reason"": ""Lila is a minor who has lost her parents and is seeking to reunite with her only remaining family member, her older brother, which highlights the humanitarian aspect of her situation.""
+}",1,3,1
+79,"[1, 2, 4, 5, 3]","{
+    ""decision"": ""participant 2"",
+    ""reason"": ""Elena is fleeing a dangerous situation due to her work as a journalist exposing corruption, and her need for safety and support from her brother outweighs the lack of documentation.""
+}",2,2,2
+80,"[4, 2, 5, 1, 3]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Amir's urgent need to protect his pregnant wife and child from a violent militia presents a compelling humanitarian case for entry despite incomplete documents.""
+}",2,2,2
+81,"[2, 5, 1, 3, 4]","{
+  ""decision"": ""1"",
+  ""reason"": ""Tania's plea highlights her urgent need for safety and the loss she has suffered, making her a compelling case for entry despite her incomplete documentation.""
+}",1,2,1
+82,"[4, 5, 2, 1, 3]","{
+  ""decision"": ""2"",
+  ""reason"": ""Raj's humanitarian work is crucial for vulnerable communities, and allowing him entry aligns with Arstotzka's commitment to aiding those in need.""
+}",2,5,2
+83,"[1, 5, 4, 2, 3]","{
+  ""decision"": ""Participant 3"",
+  ""reason"": ""Jorge's evidence could significantly contribute to environmental protections in Arstotzka, aligning with the nation's interests and promoting a positive change.""
+}",3,4,3
+84,"[4, 3, 1, 2, 5]","{
+  ""decision"": ""1"",
+  ""reason"": ""Anya has crucial evidence against a human trafficking ring and is a victim of a corrupt system, which aligns with Arstotzka's commitment to justice and human rights.""
+}",1,4,1
+85,"[2, 4, 1, 5, 3]","{
+  ""decision"": ""participant 3"",
+  ""reason"": ""Malik's urgent need for medical care and assistance for his pregnant wife due to a natural disaster presents a compelling humanitarian case for entry.""
+}",3,1,3
+86,"[1, 2, 5, 4, 3]","{
+  ""decision"": ""participant 4"",
+  ""reason"": ""Nadia's situation highlights a critical human rights issue, and allowing her entry could facilitate the exposure of police brutality, which aligns with Arstotzka's values of justice and transparency.""
+}",4,4,4
+87,"[5, 3, 4, 1, 2]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Tara's role as a journalist dedicated to uncovering corruption and promoting social justice aligns with Arstotzka's interest in fostering a free press and transparency, making her entry a valuable opportunity for the country.""
+}",1,5,1
+88,"[2, 5, 1, 4, 3]","{
+  ""decision"": ""1"",
+  ""reason"": ""Igor's situation highlights a clear case of persecution for his beliefs, and allowing him entry aligns with Arstotzka's values of providing refuge for those targeted for their convictions.""
+}",1,2,1
+89,"[4, 3, 5, 2, 1]","{
+  ""decision"": ""participant 5"",
+  ""reason"": ""Kieran's dire situation as a parent fleeing civil war and seeking refuge for his starving children presents a compelling moral imperative to grant entry despite incomplete documentation.""
+}",5,1,5
+90,"[4, 1, 5, 3, 2]","{
+  ""decision"": ""1"",
+  ""reason"": ""Kiran's situation as a journalist fleeing life-threatening persecution and his potential contribution to Arstotzka's media landscape makes him a compelling candidate for entry despite incomplete documents.""
+}",1,4,1
+91,"[2, 4, 1, 3, 5]","{
+  ""decision"": ""participant 2"",
+  ""reason"": ""Yusuf's advocacy for labor rights aligns with Arstotzka's values, and his presence could contribute positively to the country's social reform efforts.""
+}",2,4,2
+92,"[1, 4, 3, 5, 2]","{
+  ""decision"": ""Participant 2"",
+  ""reason"": ""Sana's commitment to environmental activism aligns with Arstotzka's initiatives, and her presence could contribute positively to the country's sustainable projects.""
+}",2,4,2
+93,"[5, 2, 1, 3, 4]","{
+    ""decision"": ""participant 5"",
+    ""reason"": ""Amir's expertise as a physician is urgently needed to assist in health reform efforts in Arstotzka, making his entry not only morally justified but also beneficial to the country's public health.""
+}",5,4,5
+94,"[1, 4, 5, 2, 3]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Hassan's urgent need for medication for his elderly wife in a war-torn region demonstrates a critical humanitarian situation that warrants entry despite incomplete documents.""
+}",1,1,1
+95,"[4, 1, 2, 3, 5]","{
+  ""decision"": ""2"",
+  ""reason"": ""Tunde's urgent need for medical assistance for his family during a cholera outbreak resonates with Arstotzka's humanitarian values and the need for compassion in times of crisis.""
+}",2,1,2
+96,"[1, 5, 2, 4, 3]","{
+  ""decision"": ""3"",
+  ""reason"": ""Alina, the nurse, has the potential to contribute significantly to Arstotzka's healthcare system while also seeking healing from her traumatic experiences.""
+}",3,2,3
+97,"[2, 3, 4, 1, 5]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Boris's desperate situation due to political persecution and his potential contribution to the workforce in Arstotzka make him a compelling candidate for entry despite his incomplete documents.""
+}",1,2,1
+98,"[1, 5, 4, 2, 3]","{
+  ""decision"": ""participant 1"",
+  ""reason"": ""Mira's situation as a refugee with an infant in dire conditions warrants immediate entry for humanitarian reasons.""
+}",1,1,1
+99,"[4, 1, 5, 3, 2]","{
+  ""decision"": ""participant 4"",
+  ""reason"": ""Elena's personal story of searching for her father after years of exile highlights a profound emotional need and a legitimate reason for entry that transcends bureaucratic errors.""
+}",4,3,4
